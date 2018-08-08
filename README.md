@@ -1,6 +1,6 @@
 # NYPopularNews
 # Steps for running the Unit Test and UI Test
-#1.Open the project Workspace
+#1. Open the project Workspace
 #2. Then Choose the Project and go to edit scheme
 #3. In edit scheme choos the Target as "Test" and select the Info Tap
 #4. Under the Info tap Make sure the UITest targes are selected
